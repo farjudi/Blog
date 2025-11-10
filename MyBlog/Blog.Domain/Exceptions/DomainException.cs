@@ -20,5 +20,9 @@ namespace Blog.Domain.Exceptions
         {
             Code = code;
         }
+        public DomainException(string message) : base(message)
+        {
+            Code = "DOMAIN_ERROR";
+        }
     }
 }
