@@ -27,7 +27,7 @@ namespace Blog.Domain.ValueObjects
 
         }
 
-        public static PhoneNumber Form(string value)
+        public static PhoneNumber From(string value)
         {
             if(string.IsNullOrWhiteSpace(value))
                 return Empty();
