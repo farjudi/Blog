@@ -1,6 +1,6 @@
-﻿
+﻿using Blog.Domain.ValueObjects.User;
 
-namespace Blog.Domain.Aggregates.UserAggregate
+namespace Blog.Domain.Repositories
 {
     public interface IUserRepository
     {

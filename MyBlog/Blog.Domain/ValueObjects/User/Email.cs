@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Blog.Domain.ValueObjects
+namespace Blog.Domain.ValueObjects.User
 {
     public record Email
     {

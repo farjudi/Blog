@@ -1,5 +1,7 @@
 ﻿
 
+using Blog.Domain.ValueObjects.User;
+
 namespace Blog.Domain.Aggregates.UserAggregate
 {
     public class User

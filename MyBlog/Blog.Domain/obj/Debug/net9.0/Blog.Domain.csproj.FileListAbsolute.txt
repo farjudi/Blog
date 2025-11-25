@@ -1,0 +1,5 @@
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.AssemblyInfoInputs.cache
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.AssemblyInfo.cs
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.csproj.CoreCompileInputs.cache
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.sourcelink.json
