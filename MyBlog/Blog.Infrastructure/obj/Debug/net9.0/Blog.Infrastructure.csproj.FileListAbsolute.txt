@@ -1,0 +1,12 @@
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\bin\Debug\net9.0\Blog.Infrastructure.deps.json
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\bin\Debug\net9.0\Blog.Infrastructure.dll
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\bin\Debug\net9.0\Blog.Infrastructure.pdb
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.AssemblyInfoInputs.cache
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.AssemblyInfo.cs
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.csproj.CoreCompileInputs.cache
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.sourcelink.json
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.dll
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\refint\Blog.Infrastructure.dll
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.pdb
+H:\Project\Blogger\MyBlog\Blog.Infrastructure\obj\Debug\net9.0\ref\Blog.Infrastructure.dll

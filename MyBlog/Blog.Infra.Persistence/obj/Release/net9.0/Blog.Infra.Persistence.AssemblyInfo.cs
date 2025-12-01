@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blog.Infra.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef99b689756fe25c862ec7e1afdc42d4e132f21f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b24aa953481845cae5316162ba36cbe86c01bba0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blog.Infra.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blog.Infra.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\bin\Debug\net9.0\Blog.Infra.Persistence.deps.json
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\bin\Debug\net9.0\Blog.Infra.Persistence.dll
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\bin\Debug\net9.0\Blog.Infra.Persistence.pdb
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.AssemblyInfoInputs.cache
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.AssemblyInfo.cs
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.csproj.CoreCompileInputs.cache
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.sourcelink.json
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.dll
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\refint\Blog.Infra.Persistence.dll
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.pdb
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\ref\Blog.Infra.Persistence.dll

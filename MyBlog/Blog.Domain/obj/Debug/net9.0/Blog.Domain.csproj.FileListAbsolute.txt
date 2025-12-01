@@ -3,3 +3,10 @@ H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.AssemblyInfoI
 H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.AssemblyInfo.cs
 H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.csproj.CoreCompileInputs.cache
 H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.sourcelink.json
+H:\Project\Blogger\MyBlog\Blog.Domain\bin\Debug\net9.0\Blog.Domain.deps.json
+H:\Project\Blogger\MyBlog\Blog.Domain\bin\Debug\net9.0\Blog.Domain.dll
+H:\Project\Blogger\MyBlog\Blog.Domain\bin\Debug\net9.0\Blog.Domain.pdb
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.dll
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\refint\Blog.Domain.dll
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\Blog.Domain.pdb
+H:\Project\Blogger\MyBlog\Blog.Domain\obj\Debug\net9.0\ref\Blog.Domain.dll

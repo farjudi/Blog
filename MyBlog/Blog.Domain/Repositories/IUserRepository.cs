@@ -13,6 +13,7 @@ namespace Blog.Domain.Repositories
         Task<User?> GetByEmailAsync(Email email);
 
         Task<bool> EmailExistAsync(Email email);
+        Task<bool> UserExistsAsync(string userName,Email email);
         /// <summary>
         /// گرفتن تمام کاربران فعال
         /// </summary>
@@ -35,5 +36,6 @@ namespace Blog.Domain.Repositories
         Task DeleteAsync(User user);
 
         #endregion
+        Task<int> SaveChangesAsync(CancellationToken ct = default);
     }
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rBVj0M8HGq4=",
+  "dgSpecHash": "0Mjr2719FRA=",
   "success": true,
   "projectFilePath": "H:\\Project\\Blogger\\MyBlog\\Blog.Infrastructure\\Blog.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

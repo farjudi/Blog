@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "2skXvcNe2Q8=",
+  "dgSpecHash": "7oTbrP8omac=",
   "success": true,
   "projectFilePath": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Blog.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\fluentvalidation\\10.2.2\\fluentvalidation.10.2.2.nupkg.sha512",
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Fatemeh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

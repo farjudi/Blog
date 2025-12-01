@@ -3,14 +3,8 @@
     "",
     "\\Blog.Application",
     "\\Blog.Application\\DTOs",
-    "\\Blog.Application\\DTOs\\UserDtos",
-    "\\Blog.Application\\Interfaces",
-    "\\Blog.Application\\Interfaces\\Repositories",
-    "\\Blog.Domain",
-    "\\Blog.Domain\\Aggregates",
-    "\\Blog.Domain\\Aggregates\\UserAggregate",
-    "\\Blog.Domain\\Common",
-    "\\Blog.Domain\\Repositories"
+    "\\Blog.Application\\DTOs\\UserDtos"
   ],
+  "SelectedNode": "\\Blog.Application\\DTOs\\UserDtos\\LoginResponseDto.cs",
   "PreviewInSolutionExplorer": false
 }

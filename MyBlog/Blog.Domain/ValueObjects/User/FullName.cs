@@ -21,7 +21,7 @@ public record FullName
         if (string.IsNullOrWhiteSpace(firstName))
             throw new ArgumentException(" نام نمی تواند خالی باشد ", nameof(firstName));
         if (string.IsNullOrWhiteSpace(lastName))
-            throw new ArgumentException("نام خانوادگی نمیتواند خالی باشد ", nameof(lastName);
+            throw new ArgumentException("نام خانوادگی نمیتواند خالی باشد ", nameof(lastName));
         return new FullName(firstName.Trim(), lastName.Trim());
 
 
