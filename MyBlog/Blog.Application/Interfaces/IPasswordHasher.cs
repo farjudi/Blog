@@ -11,7 +11,7 @@ namespace Blog.Application.Interfaces
         //برای اینکه هش کنیم رمز رو 
         string Hash(string password);
         //رمز ساده رو میگیره و با رمز هش شده مقایسه میکنه 
-        bool Verify(string password, string hashedPassword);
+        bool Verify(string password, string passwordHash);
 
     }
 }
