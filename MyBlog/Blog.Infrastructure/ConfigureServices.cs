@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Blog.Infrastructure
 {
-    internal class ConfigureServices
+    public class ConfigureServices
     {
     }
 }

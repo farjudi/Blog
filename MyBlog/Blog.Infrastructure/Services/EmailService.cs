@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blog.Infrastructure.Configuration
+namespace Blog.Infrastructure.Services
 {
-    public class EmailService
+    internal class EmailService
     {
     }
 }
