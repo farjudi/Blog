@@ -10,3 +10,9 @@ H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Per
 H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\refint\Blog.Infra.Persistence.dll
 H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.pdb
 H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\ref\Blog.Infra.Persistence.dll
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.csproj.AssemblyReference.cache
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\bin\Debug\net9.0\Blog.Infra.Persistence.runtimeconfig.json
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Infra.Persistence.genruntimeconfig.cache
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\bin\Debug\net9.0\Blog.Domain.dll
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\bin\Debug\net9.0\Blog.Domain.pdb
+H:\Project\Blogger\MyBlog\Blog.Infra.Persistence\obj\Debug\net9.0\Blog.Inf.F53DF724.Up2Date

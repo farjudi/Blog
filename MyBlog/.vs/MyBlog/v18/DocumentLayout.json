@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|solutionrelative:blog.infra.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|h:\\project\\blogger\\myblog\\blog.infra.persistence\\context\\applicationdbcontext_partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|solutionrelative:blog.infra.persistence\\context\\applicationdbcontext_partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|h:\\project\\blogger\\myblog\\blog.infra.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|solutionrelative:blog.infra.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|h:\\project\\blogger\\myblog\\blog.infra.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|solutionrelative:blog.infra.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\valueobjects\\user\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\valueobjects\\user\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\valueobjects\\user\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\valueobjects\\user\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|h:\\project\\blogger\\myblog\\blog.infra.persistence\\blog.infra.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -35,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{7B4B2D55-2CAB-48DE-9C4B-94D94D6488CC}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\authentication\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4B2D55-2CAB-48DE-9C4B-94D94D6488CC}|Blog.Infrastructure\\Blog.Infrastructure.csproj|h:\\project\\blogger\\myblog\\blog.infrastructure\\blog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7B4B2D55-2CAB-48DE-9C4B-94D94D6488CC}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\blog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B4B2D55-2CAB-48DE-9C4B-94D94D6488CC}|Blog.Infrastructure\\Blog.Infrastructure.csproj|h:\\project\\blogger\\myblog\\blog.infrastructure\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4B2D55-2CAB-48DE-9C4B-94D94D6488CC}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD350324-9D64-48B3-8981-39FCC5396217}|Blog.Application\\Blog.Application.csproj|h:\\project\\blogger\\myblog\\blog.application\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD350324-9D64-48B3-8981-39FCC5396217}|Blog.Application\\Blog.Application.csproj|solutionrelative:blog.application\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|h:\\project\\blogger\\myblog\\blog.infra.persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6260E485-D80A-43C4-8637-AECDA5156F71}|Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj|solutionrelative:blog.infra.persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,26 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD350324-9D64-48B3-8981-39FCC5396217}|Blog.Application\\Blog.Application.csproj|h:\\project\\blogger\\myblog\\blog.application\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD350324-9D64-48B3-8981-39FCC5396217}|Blog.Application\\Blog.Application.csproj|solutionrelative:blog.application\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\aggregates\\useraggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\aggregates\\useraggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\valueobjects\\user\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\valueobjects\\user\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\valueobjects\\user\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\valueobjects\\user\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|h:\\project\\blogger\\myblog\\blog.domain\\aggregates\\useraggregate\\userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51950264-F26A-4BE6-BCFE-309018B93AB6}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\aggregates\\useraggregate\\userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F52B553E-1E7D-4876-B655-8F9619721E7D}|Blog.Api\\Blog.Api.csproj|h:\\project\\blogger\\myblog\\blog.api\\blog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -206,28 +186,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "Blog.Infra.Persistence\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "Blog.Infra.Persistence\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Infra.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Blog.Infra.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:37:45.258Z",
+              "WhenOpened": "2025-12-08T09:43:27.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext_Partial.cs",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Context\\ApplicationDbContext_Partial.cs",
-              "RelativeDocumentMoniker": "Blog.Infra.Persistence\\Context\\ApplicationDbContext_Partial.cs",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Context\\ApplicationDbContext_Partial.cs",
-              "RelativeToolTip": "Blog.Infra.Persistence\\Context\\ApplicationDbContext_Partial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Blog.Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:36:26.149Z",
+              "WhenOpened": "2025-11-15T04:17:13.43Z",
               "EditorCaption": ""
             },
             {
@@ -238,14 +218,40 @@
               "RelativeDocumentMoniker": "Blog.Infra.Persistence\\Context\\ApplicationDbContext.cs",
               "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "Blog.Infra.Persistence\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T15:36:02.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Email.cs",
+              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\Email.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ValueObjects\\User\\Email.cs",
+              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\Email.cs",
+              "RelativeToolTip": "Blog.Domain\\ValueObjects\\User\\Email.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:53:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullName.cs",
+              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\FullName.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ValueObjects\\User\\FullName.cs",
+              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\FullName.cs",
+              "RelativeToolTip": "Blog.Domain\\ValueObjects\\User\\FullName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:53:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infrastructure\\Authentication\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "Blog.Infrastructure\\Authentication\\PasswordHasher.cs",
@@ -253,25 +259,24 @@
               "RelativeToolTip": "Blog.Infrastructure\\Authentication\\PasswordHasher.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:16:56.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:16:56.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Blog.Infra.Persistence.csproj",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj",
               "RelativeDocumentMoniker": "Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj",
               "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj",
               "RelativeToolTip": "Blog.Infra.Persistence\\Blog.Infra.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-01T10:01:57.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IPasswordHasher.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Interfaces\\IPasswordHasher.cs",
               "RelativeDocumentMoniker": "Blog.Application\\Interfaces\\IPasswordHasher.cs",
@@ -279,12 +284,11 @@
               "RelativeToolTip": "Blog.Application\\Interfaces\\IPasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T11:25:11.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T11:25:11.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EmailService.cs.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infrastructure\\Configuration\\EmailService.cs.cs",
               "RelativeDocumentMoniker": "Blog.Infrastructure\\Configuration\\EmailService.cs.cs",
@@ -292,12 +296,11 @@
               "RelativeToolTip": "Blog.Infrastructure\\Configuration\\EmailService.cs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:19:06.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:19:06.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Blog.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
@@ -305,25 +308,11 @@
               "RelativeToolTip": "Blog.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:16:10.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:16:10.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Blog.Infrastructure.csproj",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infrastructure\\Blog.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Blog.Infrastructure\\Blog.Infrastructure.csproj",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Infrastructure\\Blog.Infrastructure.csproj",
-              "RelativeToolTip": "Blog.Infrastructure\\Blog.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-01T10:01:59.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infrastructure\\Authentication\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Blog.Infrastructure\\Authentication\\JwtSettings.cs",
@@ -331,12 +320,11 @@
               "RelativeToolTip": "Blog.Infrastructure\\Authentication\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:15:13.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:15:13.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infrastructure\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "Blog.Infrastructure\\ConfigureServices.cs",
@@ -344,21 +332,7 @@
               "RelativeToolTip": "Blog.Infrastructure\\ConfigureServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T15:08:39.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Blog.Infra.Persistence\\Data\\AppDbContext.cs",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Infra.Persistence\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Blog.Infra.Persistence\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:57:23.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T15:08:39.444Z"
             },
             {
               "$type": "Document",
@@ -370,12 +344,11 @@
               "RelativeToolTip": "Blog.Domain\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T09:55:11.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T09:55:11.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IJwtTokenGenerator.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Interfaces\\IJwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Blog.Application\\Interfaces\\IJwtTokenGenerator.cs",
@@ -383,8 +356,7 @@
               "RelativeToolTip": "Blog.Application\\Interfaces\\IJwtTokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T12:20:23.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T12:20:23.079Z"
             },
             {
               "$type": "Document",
@@ -396,8 +368,7 @@
               "RelativeToolTip": "Blog.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:07:22.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T10:07:22.712Z"
             },
             {
               "$type": "Document",
@@ -409,8 +380,7 @@
               "RelativeToolTip": "Blog.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:09:34.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T10:09:34.734Z"
             },
             {
               "$type": "Document",
@@ -422,8 +392,7 @@
               "RelativeToolTip": "Blog.Application\\Features\\Users\\Queries\\LoginUser\\LoginUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T11:40:54.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T11:40:54.301Z"
             },
             {
               "$type": "Document",
@@ -435,8 +404,7 @@
               "RelativeToolTip": "Blog.Application\\Features\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAYwDkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T11:40:34.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T11:40:34.677Z"
             },
             {
               "$type": "Document",
@@ -448,8 +416,7 @@
               "RelativeToolTip": "Blog.Application\\Features\\Users\\Queries\\LoginUser\\LoginUserQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T11:39:45.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T11:39:45.85Z"
             },
             {
               "$type": "Document",
@@ -461,8 +428,7 @@
               "RelativeToolTip": "Blog.Application\\Features\\Users\\Commands\\RegisterUser\\RegisterUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:10:43.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T10:10:43.515Z"
             },
             {
               "$type": "Document",
@@ -474,8 +440,7 @@
               "RelativeToolTip": "Blog.Application\\Mappings\\UserMappingProfile.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:20:26.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T13:20:26.303Z"
             },
             {
               "$type": "Document",
@@ -500,8 +465,7 @@
               "RelativeToolTip": "Blog.Application\\DTOs\\UserDtos\\LoginResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:56:24.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:56:24.571Z"
             },
             {
               "$type": "Document",
@@ -513,8 +477,7 @@
               "RelativeToolTip": "Blog.Application\\DTOs\\UserDtos\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:23:42.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:23:42.842Z"
             },
             {
               "$type": "Document",
@@ -526,77 +489,11 @@
               "RelativeToolTip": "Blog.Application\\GlobalUsing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:18:31.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T10:18:31.444Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "User.cs",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Aggregates\\UserAggregate\\User.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\Aggregates\\UserAggregate\\User.cs",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Aggregates\\UserAggregate\\User.cs",
-              "RelativeToolTip": "Blog.Domain\\Aggregates\\UserAggregate\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T08:45:08.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\Repositories\\IUserRepository.cs",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Blog.Domain\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:17:13.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FullName.cs",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\FullName.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\ValueObjects\\User\\FullName.cs",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\FullName.cs",
-              "RelativeToolTip": "Blog.Domain\\ValueObjects\\User\\FullName.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T08:53:04.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Email.cs",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\Email.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\ValueObjects\\User\\Email.cs",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\Email.cs",
-              "RelativeToolTip": "Blog.Domain\\ValueObjects\\User\\Email.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T08:53:12.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserId.cs",
-              "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Aggregates\\UserAggregate\\UserId.cs",
-              "RelativeDocumentMoniker": "Blog.Domain\\Aggregates\\UserAggregate\\UserId.cs",
-              "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Aggregates\\UserAggregate\\UserId.cs",
-              "RelativeToolTip": "Blog.Domain\\Aggregates\\UserAggregate\\UserId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T08:53:09.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "Blog.Api.csproj",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Api\\Blog.Api.csproj",
               "RelativeDocumentMoniker": "Blog.Api\\Blog.Api.csproj",
@@ -609,20 +506,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 28,
               "Title": "RegisterUserDto.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\DTOs\\UserDtos\\RegisterUserDto.cs",
               "RelativeDocumentMoniker": "Blog.Application\\DTOs\\UserDtos\\RegisterUserDto.cs",
               "ToolTip": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\DTOs\\UserDtos\\RegisterUserDto.cs",
               "RelativeToolTip": "Blog.Application\\DTOs\\UserDtos\\RegisterUserDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAABRwA4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:23:24.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T14:23:24.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 27,
               "Title": "UserResponseDto.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\DTOs\\UserDtos\\UserResponseDto.cs",
               "RelativeDocumentMoniker": "Blog.Application\\DTOs\\UserDtos\\UserResponseDto.cs",
@@ -630,12 +526,11 @@
               "RelativeToolTip": "Blog.Application\\DTOs\\UserDtos\\UserResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:06:30.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T15:06:30.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 26,
               "Title": "InvalidCredentialsException.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Exceptions\\InvalidCredentialsException.cs",
               "RelativeDocumentMoniker": "Blog.Application\\Exceptions\\InvalidCredentialsException.cs",
@@ -643,12 +538,11 @@
               "RelativeToolTip": "Blog.Application\\Exceptions\\InvalidCredentialsException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:53:38.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T10:53:38.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 29,
               "Title": "Blog.Domain.csproj",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Blog.Domain.csproj",
               "RelativeDocumentMoniker": "Blog.Domain\\Blog.Domain.csproj",
@@ -661,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 31,
               "Title": "Role.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Enums\\Role.cs",
               "RelativeDocumentMoniker": "Blog.Domain\\Enums\\Role.cs",
@@ -669,12 +563,11 @@
               "RelativeToolTip": "Blog.Domain\\Enums\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:43:12.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T04:43:12.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 32,
               "Title": "UserService.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Blog.Application\\Services\\UserService.cs",
@@ -682,12 +575,11 @@
               "RelativeToolTip": "Blog.Application\\Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:53:53.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T11:53:53.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 30,
               "Title": "DomainException.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Blog.Domain\\Exceptions\\DomainException.cs",
@@ -695,12 +587,11 @@
               "RelativeToolTip": "Blog.Domain\\Exceptions\\DomainException.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAswBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:12:32.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T04:12:32.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 33,
               "Title": "InvalidEmailException.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Exceptions\\InvalidEmailException.cs",
               "RelativeDocumentMoniker": "Blog.Application\\Exceptions\\InvalidEmailException.cs",
@@ -708,12 +599,11 @@
               "RelativeToolTip": "Blog.Application\\Exceptions\\InvalidEmailException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:56:04.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T10:56:04.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 34,
               "Title": "DuplicateUserException.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Exceptions\\DuplicateUserException.cs",
               "RelativeDocumentMoniker": "Blog.Application\\Exceptions\\DuplicateUserException.cs",
@@ -721,12 +611,11 @@
               "RelativeToolTip": "Blog.Application\\Exceptions\\DuplicateUserException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:52:02.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T10:52:02.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 37,
               "Title": "DuplicateEmailException .cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Exceptions\\DuplicateEmailException .cs",
               "RelativeDocumentMoniker": "Blog.Domain\\Exceptions\\DuplicateEmailException .cs",
@@ -734,12 +623,11 @@
               "RelativeToolTip": "Blog.Domain\\Exceptions\\DuplicateEmailException .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:12:35.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T04:12:35.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 36,
               "Title": "EntityNotFoundException.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Exceptions\\EntityNotFoundException.cs",
               "RelativeDocumentMoniker": "Blog.Domain\\Exceptions\\EntityNotFoundException.cs",
@@ -747,12 +635,11 @@
               "RelativeToolTip": "Blog.Domain\\Exceptions\\EntityNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:12:36.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T04:12:36.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 35,
               "Title": "InvalidCredentialsException.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Exceptions\\InvalidCredentialsException.cs",
               "RelativeDocumentMoniker": "Blog.Domain\\Exceptions\\InvalidCredentialsException.cs",
@@ -760,12 +647,11 @@
               "RelativeToolTip": "Blog.Domain\\Exceptions\\InvalidCredentialsException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:12:37.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T04:12:37.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 38,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Blog.Application\\DependencyInjection.cs",
@@ -773,12 +659,11 @@
               "RelativeToolTip": "Blog.Application\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T09:55:06.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T09:55:06.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 39,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Blog.Domain\\GlobalUsing.cs",
@@ -786,12 +671,11 @@
               "RelativeToolTip": "Blog.Domain\\GlobalUsing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:12:26.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T04:12:26.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 40,
               "Title": "PhoneNumber.cs",
               "DocumentMoniker": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\ValueObjects\\User\\PhoneNumber.cs",
               "RelativeDocumentMoniker": "Blog.Domain\\ValueObjects\\User\\PhoneNumber.cs",
@@ -799,8 +683,7 @@
               "RelativeToolTip": "Blog.Domain\\ValueObjects\\User\\PhoneNumber.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAxwB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T08:52:48.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T08:52:48.273Z"
             }
           ]
         },
