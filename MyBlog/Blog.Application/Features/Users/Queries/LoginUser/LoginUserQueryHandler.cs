@@ -9,16 +9,17 @@ namespace Blog.Application.Features.Users.Queries.LoginUser
     {
         private readonly IUserRepository _userRepository;
         private readonly IPasswordHasher _passwordHasher;
-        private readonly IJwtTokenGenerator _jwtTokenGenerator;
+       // private readonly IJwtTokenGenerator _jwtTokenGenerator;
 
         public LoginUserQueryHandler(
             IUserRepository userRepository,
             IPasswordHasher passwordHasher
-          ,  IJwtTokenGenerator jwtTokenGenerator)
+          //,  IJwtTokenGenerator jwtTokenGenerator
+          )
         {
             _userRepository = userRepository;
             _passwordHasher = passwordHasher;
-            _jwtTokenGenerator = jwtTokenGenerator;
+     //       _jwtTokenGenerator = jwtTokenGenerator;
         }
 
         public async Task<LoginResponseDto> Handle(LoginUserQuery request, CancellationToken cancellationToken) 
@@ -46,14 +47,14 @@ namespace Blog.Application.Features.Users.Queries.LoginUser
             }
 
         
-           var token = _jwtTokenGenerator.GenerateToken(user);
+          // var token = _jwtTokenGenerator.GenerateToken(user);
 
          
             return new LoginResponseDto
             {
                 UserId = user.UserId.Value,
                 FullName = user.FullName.GetFullName(), // استفاده از متد دامین
-               Token = token,
+           //    Token = token,
                 Role = user.Role.ToString() // تبدیل Enum به string
             };
         }

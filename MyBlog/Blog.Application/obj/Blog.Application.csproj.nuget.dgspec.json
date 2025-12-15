@@ -60,11 +60,23 @@
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.2.2, )"
+              "version": "[9.2.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.2.0, )"
             },
             "MediatR": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
             }
           },
           "imports": [

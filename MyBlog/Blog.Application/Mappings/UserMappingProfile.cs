@@ -47,7 +47,7 @@ public class UserMappingProfile
 		return new LoginResponseDto
 		{
             UserId = user.UserId.Value,
-			Token = token,
+			//Token = token,
 			Email = user.Email.Value,
 			FullName = user.FullName.GetFullName(),
             Role = user.Role.ToString()
