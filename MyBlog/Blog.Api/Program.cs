@@ -1,7 +1,9 @@
-﻿using Blog.Application;
+﻿using Blog.Api.Endpoints.Users.RegisterUser;
+using Blog.Application;
 using Blog.Infra.Persistence;
 using Blog.Infrastructure;
 using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.Authentication.Cookies;
 var builder = WebApplication.CreateBuilder(args);
 
 ///Dependency Injection
@@ -17,9 +19,49 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-//builder.Services.AddOpenApi();
+
+
+//سیستم احراز هویت بر اساس کوکی 
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, options =>
+    {
+
+        options.ExpireTimeSpan = TimeSpan.FromDays(14);
+        options.SlidingExpiration = true;// اگر کاربر فعال باشه، زمان انقضا تمدید بشه
+        options.Cookie.HttpOnly = true;
+        options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+        options.Cookie.SameSite = SameSiteMode.Lax; // امنیت CSRF
+
+        options.Events=new CookieAuthenticationEvents
+        {
+            OnRedirectToLogin= context =>
+            {
+                context.Response.StatusCode= StatusCodes.Status401Unauthorized; // Unauthorized
+                return Task.CompletedTask;
+            },
+            OnRedirectToAccessDenied= context =>
+            {
+                context.Response.StatusCode= StatusCodes.Status403Forbidden; ; // Forbidden
+                return Task.CompletedTask;
+            }
+        };
+
+
+
+    });
+builder.Services.AddAuthorization(); //(برای [Authorize]
+
+
+
+
+
 
 var  app = builder.Build();
+
+app.MapGroup("/api/users")
+   .MapRegisterUserEndpoint()
+   .MapLoginUserEndpoint();
+
 
 app.MapGet("/", () => "hi every bady <..>");
 // Configure the HTTP request pipeline.
@@ -44,7 +86,7 @@ if (app.Environment.IsDevelopment())
 app.MapGet("/a", () => "Blog.Api is running...") ;
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

@@ -9,16 +9,20 @@ namespace Blog.Application.Features.Users.Queries.LoginUser
     {
         private readonly IUserRepository _userRepository;
         private readonly IPasswordHasher _passwordHasher;
-       // private readonly IJwtTokenGenerator _jwtTokenGenerator;
+        private readonly ICookieAuthenticationService _cookieAuthenticationService;
+        // private readonly IJwtTokenGenerator _jwtTokenGenerator;
 
         public LoginUserQueryHandler(
             IUserRepository userRepository,
-            IPasswordHasher passwordHasher
+            IPasswordHasher passwordHasher,
+            ICookieAuthenticationService cookieAuthenticationService
+
           //,  IJwtTokenGenerator jwtTokenGenerator
           )
         {
             _userRepository = userRepository;
             _passwordHasher = passwordHasher;
+            _cookieAuthenticationService = cookieAuthenticationService;
      //       _jwtTokenGenerator = jwtTokenGenerator;
         }
 
@@ -46,10 +50,14 @@ namespace Blog.Application.Features.Users.Queries.LoginUser
                 throw new Exception("حساب کاربری شما غیرفعال شده است.");
             }
 
-        
-          // var token = _jwtTokenGenerator.GenerateToken(user);
 
-         
+            // Sign in the user using cookie authentication
+            await _cookieAuthenticationService.SignInAsync(user);
+
+
+            // var token = _jwtTokenGenerator.GenerateToken(user);
+
+
             return new LoginResponseDto
             {
                 UserId = user.UserId.Value,

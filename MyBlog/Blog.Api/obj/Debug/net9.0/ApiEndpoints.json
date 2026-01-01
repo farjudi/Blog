@@ -34,5 +34,35 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Blog.Api.Endpoints.Users.RegisterUser.RegisterUserEndPoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapRegisterUserEndpoint\u003Eb__0_0",
+    "RelativePath": "api/users/register",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Blog.Application.Features.Users.Commands.RegisterUser.RegisterUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Http.HttpValidationProblemDetails",
+        "MediaTypes": [
+          "application/problem\u002Bjson"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "RegisterUser"
   }
 ]
