@@ -8,12 +8,12 @@ namespace Blog.Domain.Aggregates.UserAggregate
 
         private UserId(int value)
         {
-            if(value < 0)
-                throw new ArgumentException("UserId cannot be negative", nameof(value));
+            
             Value = value;
         }
         public static UserId From(int value) => new(value);
-        internal static UserId New() => new(0);
+        public bool IsTemporary => Value <= 0;
+     
         public override string ToString() => Value.ToString();
         public static implicit operator int(UserId userId) => userId.Value;
     }

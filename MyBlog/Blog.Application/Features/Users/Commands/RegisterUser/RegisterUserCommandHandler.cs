@@ -16,10 +16,12 @@ namespace Blog.Application.Features.Users.Commands.RegisterUser
     {
         private readonly IUserRepository _userRepository;
         private readonly IPasswordHasher _passwordHasher;
-        public RegisterUserCommandHandler(IUserRepository userRepository,IPasswordHasher passwordHasher)
+        private readonly IApplicationDbContext _context;
+        public RegisterUserCommandHandler(IUserRepository userRepository,IPasswordHasher passwordHasher, IApplicationDbContext context)
         {
             _userRepository = userRepository;
             _passwordHasher = passwordHasher;
+            _context = context;
         }
 
         public async Task<int> Handle(RegisterUserCommand request, CancellationToken cancellationToken)
@@ -40,8 +42,13 @@ namespace Blog.Application.Features.Users.Commands.RegisterUser
                 Role.User,
                 request.PhoneNumber
                 );
+
             await _userRepository.AddAsync(newUser);
+            await _userRepository.SaveChangesAsync(cancellationToken);
+          
+            Console.WriteLine("REGISTER HANDLER HIT");
             return newUser.UserId.Value;
+        
         }
     }
 }

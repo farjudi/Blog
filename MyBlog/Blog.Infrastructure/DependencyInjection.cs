@@ -20,7 +20,7 @@ namespace Blog.Infrastructure
             
             services.AddScoped<IPasswordHasher, PasswordHasher>();
             services.AddScoped<ICookieAuthenticationService,CookieAuthenticationService>();
-
+            services.AddHttpContextAccessor();
             return services;
         }
     }

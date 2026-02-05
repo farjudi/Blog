@@ -38,21 +38,25 @@
         }
       }
     },
-    "/": {
-      "get": {
+    "/api/users/login": {
+      "post": {
         "tags": [
           "Blog.Api"
         ],
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "string"
-                }
+        "operationId": "LoginUser",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginUserQuery"
               }
             }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
@@ -115,6 +119,20 @@
           }
         },
         "additionalProperties": { }
+      },
+      "LoginUserQuery": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
       },
       "RegisterUserCommand": {
         "type": "object",

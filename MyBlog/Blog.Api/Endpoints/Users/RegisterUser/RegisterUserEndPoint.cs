@@ -8,9 +8,11 @@ namespace Blog.Api.Endpoints.Users.RegisterUser
 {
     public static class RegisterUserEndPoint
     {
-        public static void MapRegisterUserEndpoint(this IEndpointRouteBuilder endpoint)
+        public static RouteGroupBuilder MapRegisterUserEndpoint(this RouteGroupBuilder group)
         {
-            endpoint.MapPost("/register",async(RegisterUserCommand command,IMediator mediator) =>
+            group.MapPost("/register",async
+                (RegisterUserCommand command,
+                IMediator mediator) =>
             {
                 var result = await mediator.Send(command);
                 return Results.Ok(result);
@@ -18,6 +20,9 @@ namespace Blog.Api.Endpoints.Users.RegisterUser
          .WithName("RegisterUser")
         .Produces(200)  
         .ProducesValidationProblem(400);
+
+            return group;
+      
         }
 
 

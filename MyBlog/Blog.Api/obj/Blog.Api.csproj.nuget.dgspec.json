@@ -198,6 +198,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[9.0.2, )"
@@ -344,6 +348,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Blog.Application.csproj": {
+                "projectPath": "H:\\Project\\Blogger\\MyBlog\\Blog.Application\\Blog.Application.csproj"
+              },
               "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Blog.Domain.csproj": {
                 "projectPath": "H:\\Project\\Blogger\\MyBlog\\Blog.Domain\\Blog.Domain.csproj"
               }

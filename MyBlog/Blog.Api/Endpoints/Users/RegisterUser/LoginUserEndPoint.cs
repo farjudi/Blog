@@ -1,19 +1,30 @@
 ﻿using Blog.Application.Features.Users.Queries.LoginUser;
+using Blog.Application.Interfaces;
 using MediatR;
 using System.Runtime.CompilerServices;
 
-namespace Blog.Api.Endpoints.Users.RegisterUser
+namespace Blog.Api.Endpoints.Users.LoginUser
 {
     public static class LoginUserEndPoint
     {
-        public static void MapLoginUserEndpoint(this IEndpointRouteBuilder endpoint)
+        public static RouteGroupBuilder MapLoginUserEndpoint(this RouteGroupBuilder group)
         {
-            endpoint.MapPost("/login", async (LoginUserQuery query, IMediator mediator) =>
+            group.MapPost("/login", async (LoginUserQuery query
+                                              , IMediator mediator
+                                              ,ICookieAuthenticationService cookieService) =>
             {
-                var result = await mediator.Send(query);
-                return Results.Ok(result);
+                var user = await mediator.Send(query);
+                if (user == null)
+                    return Results.Unauthorized();
+
+
+                //  Cookie Authentication
+              //  await cookieService.SignInAsync(user);
+
+                return Results.Ok(new { Message = "Logged in successfully" });
             })
                 .WithName("LoginUser");
+            return group;
         }
     }
 }

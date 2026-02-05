@@ -1,24 +1,6 @@
 [
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_0",
-    "RelativePath": "",
-    "HttpMethod": "GET",
-    "IsController": false,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
     "RelativePath": "a",
     "HttpMethod": "GET",
@@ -34,6 +16,29 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Blog.Api.Endpoints.Users.LoginUser.LoginUserEndPoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapLoginUserEndpoint\u003Eb__0_0",
+    "RelativePath": "api/users/login",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "Blog.Application.Features.Users.Queries.LoginUser.LoginUserQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "LoginUser"
   },
   {
     "ContainingType": "Blog.Api.Endpoints.Users.RegisterUser.RegisterUserEndPoint\u002B\u003C\u003Ec",

@@ -9,9 +9,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+using Blog.Application.Interfaces;
 namespace Blog.Infra.Persistence.Context
 {
-    public class ApplicationDbContext: DbContext
+    public class ApplicationDbContext: DbContext, IApplicationDbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {

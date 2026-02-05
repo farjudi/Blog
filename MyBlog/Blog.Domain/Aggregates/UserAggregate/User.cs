@@ -42,7 +42,7 @@ namespace Blog.Domain.Aggregates.UserAggregate
 
             return new User
             {
-                UserId = UserId.New(), // EF Core میده
+              //  UserId = UserId.New(), // EF Core میده
                 FullName = fullName,
                 Email = email,
                 PhoneNumber = phone,

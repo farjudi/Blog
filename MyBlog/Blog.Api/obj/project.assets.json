@@ -2165,6 +2165,7 @@
           "FluentValidation.DependencyInjectionExtensions": "9.2.0",
           "MediatR": "9.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.2",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2"
         },
         "compile": {
@@ -2188,6 +2189,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "Blog.Application": "1.0.0",
           "Blog.Domain": "1.0.0",
           "FluentValidation": "9.2.0",
           "Microsoft.EntityFrameworkCore": "9.0.2",

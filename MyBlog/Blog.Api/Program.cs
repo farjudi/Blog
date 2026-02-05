@@ -1,4 +1,5 @@
 ﻿using Blog.Api.Endpoints.Users.RegisterUser;
+using Blog.Api.Endpoints.Users.LoginUser;
 using Blog.Application;
 using Blog.Infra.Persistence;
 using Blog.Infrastructure;
@@ -58,12 +59,16 @@ builder.Services.AddAuthorization(); //(برای [Authorize]
 
 var  app = builder.Build();
 
+//app.MapGroup("/api/users")
+//   .MapRegisterUserEndpoint()
+//   .MapLoginUserEndpoint();
+
+
 app.MapGroup("/api/users")
    .MapRegisterUserEndpoint()
    .MapLoginUserEndpoint();
 
-
-app.MapGet("/", () => "hi every bady <..>");
+//app.MapGet("/", () => "hi every bady <..>");
 // Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())
 //{

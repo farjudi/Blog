@@ -1,4 +1,5 @@
-﻿using Blog.Domain.Repositories;
+﻿using Blog.Application.Interfaces;
+using Blog.Domain.Repositories;
 using Blog.Infra.Persistence.Context;
 using Blog.Infra.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -23,7 +24,7 @@ namespace Blog.Infra.Persistence
             ));
 
             services.AddScoped<IUserRepository,UserRepository>();
-
+            services.AddScoped<IApplicationDbContext,ApplicationDbContext>();
 
             return services;
         }
