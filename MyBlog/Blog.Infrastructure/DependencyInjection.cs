@@ -3,6 +3,7 @@ using Blog.Domain.Repositories;
 using Blog.Infra.Persistence.Context;
 using Blog.Infra.Persistence.Repositories;
 using Blog.Infrastructure.Authentication;
+using Blog.Infrastructure.Providers;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -20,6 +21,7 @@ namespace Blog.Infrastructure
             
             services.AddScoped<IPasswordHasher, PasswordHasher>();
             services.AddScoped<ICookieAuthenticationService,CookieAuthenticationService>();
+            services.AddScoped<ISmsProvider, KavehNegarProvider>();
             services.AddHttpContextAccessor();
             return services;
         }

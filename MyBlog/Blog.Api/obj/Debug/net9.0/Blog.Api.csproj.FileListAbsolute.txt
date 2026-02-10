@@ -178,3 +178,5 @@ H:\Project\Blogger\MyBlog\Blog.Api\obj\Debug\net9.0\refint\Blog.Api.dll
 H:\Project\Blogger\MyBlog\Blog.Api\obj\Debug\net9.0\Blog.Api.pdb
 H:\Project\Blogger\MyBlog\Blog.Api\obj\Debug\net9.0\Blog.Api.genruntimeconfig.cache
 H:\Project\Blogger\MyBlog\Blog.Api\obj\Debug\net9.0\ref\Blog.Api.dll
+H:\Project\Blogger\MyBlog\Blog.Api\bin\Debug\net9.0\Kavenegar.Core.dll
+H:\Project\Blogger\MyBlog\Blog.Api\bin\Debug\net9.0\Newtonsoft.Json.dll

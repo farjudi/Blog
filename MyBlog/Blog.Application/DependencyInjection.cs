@@ -1,12 +1,12 @@
-﻿using System;
+﻿using Blog.Application.Features.Sms;
+using FluentValidation;
+using Microsoft.Extensions.DependencyInjection;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using Microsoft.Extensions.DependencyInjection;
-
-using FluentValidation;
 //using Microsoft.Extensions.DependencyInjection;
 //using System.Reflection;
 namespace Blog.Application
@@ -19,7 +19,7 @@ namespace Blog.Application
          
             services.AddMediatR(assembly);
 
-
+            services.AddScoped<SendSmsUseCase>();
             services.AddValidatorsFromAssembly(assembly);
             services.AddScoped<IUserService, UserService>();
 

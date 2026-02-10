@@ -1,11 +1,20 @@
-﻿using Blog.Api.Endpoints.Users.RegisterUser;
+﻿using Blog.Api.Endpoints.Provider.SmsProvider;
 using Blog.Api.Endpoints.Users.LoginUser;
+using Blog.Api.Endpoints.Users.RegisterUser;
 using Blog.Application;
+
 using Blog.Infra.Persistence;
+
 using Blog.Infrastructure;
-using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.OpenApi.Models;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+
+builder.Services.Configure<AppSettings>(
+    builder.Configuration);
 
 ///Dependency Injection
 builder.Services.AddApplication();
@@ -67,6 +76,11 @@ var  app = builder.Build();
 app.MapGroup("/api/users")
    .MapRegisterUserEndpoint()
    .MapLoginUserEndpoint();
+
+
+app.MapGroup("/api/Sms")
+  .MapSendSmsEndpoint()
+  ;
 
 //app.MapGet("/", () => "hi every bady <..>");
 // Configure the HTTP request pipeline.

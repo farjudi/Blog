@@ -18,6 +18,29 @@
     ]
   },
   {
+    "ContainingType": "Blog.Api.Endpoints.Provider.SmsProvider.SendSmsEndPoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapSendSmsEndpoint\u003Eb__0_0",
+    "RelativePath": "api/Sms/send",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Blog.Api.Endpoints.Provider.SmsProvider.SendSmsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "SendSms"
+  },
+  {
     "ContainingType": "Blog.Api.Endpoints.Users.LoginUser.LoginUserEndPoint\u002B\u003C\u003Ec",
     "Method": "\u003CMapLoginUserEndpoint\u003Eb__0_0",
     "RelativePath": "api/users/login",
